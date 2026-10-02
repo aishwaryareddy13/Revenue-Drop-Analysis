@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+openpyxl  # Needed to read Excel files
+plotly
+statsmodels
